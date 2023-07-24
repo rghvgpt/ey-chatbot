@@ -25,9 +25,9 @@ const Footer = () => {
         width: "100vw",
       }}
     >
-      <p>© 2023 · Priyanshu Sinha</p>
+      <p>© 2023 · Raghav Gupta</p>
       <p>
-        <a href="https://github.com/prynshsnh/vecmocon-chatbot">
+        <a href="https://github.com/rghvgpt/ey-chatbot">
           <GitHubIcon
             sx={{
               fontSize: "medium",
@@ -36,17 +36,8 @@ const Footer = () => {
         </a>
       </p>
       <p>
-        <a href="https://www.linkedin.com/in/priyanshusinhadtu/">
+        <a href="https://www.linkedin.com/in/raghav-gupta-b194a5230">
           <LinkedInIcon
-            sx={{
-              fontSize: "medium",
-            }}
-          />
-        </a>
-      </p>
-      <p>
-        <a href="https://priyanshusinha.online/">
-          <LanguageRoundedIcon
             sx={{
               fontSize: "medium",
             }}
