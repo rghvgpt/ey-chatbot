@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>VecBot - Chat with your PDFs</title>
+        <title>EY Bot - Chat with your PDFs</title>
         <meta name="description" content="PDF that talks" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" type="image/x-icon" href="favicon.ico" />
