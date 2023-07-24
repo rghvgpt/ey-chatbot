@@ -1,0 +1,33 @@
+{
+  "name": "vecmoconbot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.14",
+    "@tabler/icons-react": "^2.24.0",
+    "next": "^13.2.4",
+    "openai": "^3.2.1",
+    "pdfjs": "^2.4.7",
+    "pdfjs-dist": "^3.4.120",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.25",
+    "prettier": "3.0.0",
+    "sass": "^1.63.6",
+    "sass-loader": "^10.4.1",
+    "tailwindcss": "^3.3.2"
+  }
+}
