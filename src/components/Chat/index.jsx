@@ -68,7 +68,7 @@ function Chat() {
     setInputValue("");
 
     const configuration = new Configuration({
-      apiKey: "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",
+      apiKey: "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",
     });
     const openai = new OpenAIApi(configuration);
 
